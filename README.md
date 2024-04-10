@@ -1,0 +1,1 @@
+# yasai_fishing

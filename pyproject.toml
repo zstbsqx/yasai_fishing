@@ -1,0 +1,19 @@
+[project]
+name = "yasai_fishing"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "zstbsqx", email = "zstbcj@gmail.com"},
+]
+dependencies = [
+    "pyautogui>=0.9.54",
+    "pillow>=10.3.0",
+    "opencv-python>=4.9.0.80",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
